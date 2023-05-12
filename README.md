@@ -21,12 +21,13 @@ Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, c
 </p>
 <br>
 
-[Visualise o Projeto aqui](https://explore-03-treinos-exclusivos.vercel.app/)
+[Visualise o Projeto aqui](https://explore-03-treinos-exclusivos-acessibilidade.vercel.app/)
 
 
 
 
-💻 Sobre o desafio
+## 💻 Sobre o desafio
+
 Realizei o desafio proposto durante o programa Explore da RocketSeat, que consistia em corrigir a semântica e a acessibilidade de um código HTML previamente desenvolvido.
 
 Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML.
@@ -47,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🪐 Link
 
-Você pode visualizar o projeto através [DESSE LINK](https://explore-03-treinos-exclusivos.vercel.app/). 
+Você pode visualizar o projeto através [DESSE LINK](https://explore-03-treinos-exclusivos-acessibilidade.vercel.app/). 
 
 ## :memo: Licença
 
