@@ -1,4 +1,4 @@
-<h1 align="center"> Treinos exclusivos </h1>
+<h1 align="center"> Treinos exclusivos - Intermediário - Semântica e acessibilidade. 💜</h1>
 
 <p align="center">
 Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, com dezenas de aulas e tem como objetivo desenvolver habilidades técnicas e comportamentais a fim de que o aluno consiga se posicionar como profissional, conquiste oportunidades no mercado de trabalho e lide com desafios reais.são projetos do curso, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -22,6 +22,20 @@ Este é um projeto da RocketSeat do programa Explore composto por 20 módulos, c
 <br>
 
 [Visualise o Projeto aqui](https://explore-03-treinos-exclusivos.vercel.app/)
+
+
+
+
+💻 Sobre o desafio
+Realizei o desafio proposto durante o programa Explore da RocketSeat, que consistia em corrigir a semântica e a acessibilidade de um código HTML previamente desenvolvido.
+
+Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML.
+
+Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele não apresenta a semântica correta.
+Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... 👀
+
+
+
 
 ## 🚀 Tecnologias
 
